@@ -197,5 +197,7 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UNTITLED CHANNEL
+http://127.0.0.1:6878/ace/getstream?id=acestream://109c70ce6abc73be01a82571470e3402e4714819
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 2 720
 http://127.0.0.1:6878/ace/getstream?id=5ae9afd963961cd07e8f690e44a6596a2bb4e51e
